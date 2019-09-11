@@ -89,6 +89,8 @@ client.on('guildMemberAdd', (member)=>{
 // Modif Modif Modif Modif Modif Modif Modif Modif Modif Modif Modif Modif Modif
 // Modif Modif Modif Modif Modif Modif Modif Modif Modif Modif Modif Modif Modif
 
+// Modif Modif Modif Modif Modif Modif Modif Modif Modif Modif Modif Modif Modif 2
+
 // Listener lorsqu'un message est envoyé dans le chat
 // message est le message en lui même qu'on récupère en même temps qu'on l'écoute
 client.on('message', async (message) => {
