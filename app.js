@@ -90,6 +90,7 @@ client.on('message', async (message) => {
 	const guildConf = client.settings.ensure(message.guild.id, defaultSettings);
 	const msg = message.content;
 
+	//BONJOUR JE SUIS UN COMMENTAIRE DE TRUC MACHIN TRUC CHOSE
 	if(msg.indexOf(guildConf.prefix) !== 0) {
 		return;
 	}
