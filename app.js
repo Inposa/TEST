@@ -84,6 +84,10 @@ client.on('guildMemberAdd', (member)=>{
 
 // Hello there
 
+
+// MERGE CONFLICT : IT'S TIME TO GET A LITTLE FUNKY
+
+
 // Modif Modif Modif Modif Modif Modif Modif Modif Modif Modif Modif 3
 
 // Modif Modif Modif Modif Modif Modif Modif Modif Modif Modif Modif Modif Modif
